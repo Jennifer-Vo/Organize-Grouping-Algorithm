@@ -1,1 +1,1 @@
-Created an algorithm to use information to put students into groups for a course project. Used criteria of different levels of importance (ie. from student survery answers) to group them according to compatibility. 
+Created an algorithm to use information to put students into groups for a course project. Used criteria of different levels of importance (ie. from student survey answers) to group them according to compatibility. 
